@@ -124,7 +124,7 @@ USE_TZ = True
 
 # or, eg,
 STATIC_URL = '/static/'
-STATIC_ROOT = "/home/SilverStudio/Arduino_RTA/static_files"
+STATIC_ROOT = "/home/SilverStudio/Arduino_RTA/staticfiles"
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
